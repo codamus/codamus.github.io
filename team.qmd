@@ -18,5 +18,5 @@ title: Team
 
 - Achim Sauer
 - Kevin Vonnahme
-- Zihan Guo
-- Christina Nastos
+<!-- - Zihan Guo
+- Christina Nastos -->

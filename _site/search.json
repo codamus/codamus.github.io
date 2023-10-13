@@ -14,27 +14,6 @@
     "text": "About this site"
   },
   {
-    "objectID": "team.html",
-    "href": "team.html",
-    "title": "Team",
-    "section": "",
-    "text": "Fabian C. Moss\n\nPersonal website\nProfile at JMU Würzburg"
-  },
-  {
-    "objectID": "team.html#phd-students",
-    "href": "team.html#phd-students",
-    "title": "Team",
-    "section": "PhD students",
-    "text": "PhD students\n\nLucas Hofmann\nTim Eipert\nAdrian Nachtwey"
-  },
-  {
-    "objectID": "team.html#student-assistants",
-    "href": "team.html#student-assistants",
-    "title": "Team",
-    "section": "Student assistants",
-    "text": "Student assistants\n\nAchim Sauer\nKevin Vonnahme\nZihan Guo\nChristina Nastos"
-  },
-  {
     "objectID": "projects.html",
     "href": "projects.html",
     "title": "Projects",
@@ -47,5 +26,26 @@
     "title": "Projects",
     "section": "Virtual Tonal Spaces",
     "text": "Virtual Tonal Spaces\nProject website"
+  },
+  {
+    "objectID": "team.html",
+    "href": "team.html",
+    "title": "Team",
+    "section": "",
+    "text": "Fabian C. Moss\n\nPersonal website\nProfile at JMU Würzburg"
+  },
+  {
+    "objectID": "team.html#phd-students",
+    "href": "team.html#phd-students",
+    "title": "Team",
+    "section": "PhD students",
+    "text": "PhD students\n\nLucas Hofmann\nTim Eipert"
+  },
+  {
+    "objectID": "team.html#student-assistants",
+    "href": "team.html#student-assistants",
+    "title": "Team",
+    "section": "Student assistants",
+    "text": "Student assistants\n\nAchim Sauer\nKevin Vonnahme\nZihan Guo\nChristina Nastos"
   }
 ]
