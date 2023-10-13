@@ -1,0 +1,22 @@
+---
+title: Team
+---
+
+## Principal investigator
+
+- Fabian C. Moss
+  - [Personal website](https://www.fabian-moss.de)
+  - [Profile at JMU Würzburg](https://www.musikwissenschaft.uni-wuerzburg.de/team/moss)
+
+## PhD students
+
+- Lucas Hofmann
+- Tim Eipert
+<!-- - Adrian Nachtwey -->
+
+## Student assistants
+
+- Achim Sauer
+- Kevin Vonnahme
+- Zihan Guo
+- Christina Nastos
